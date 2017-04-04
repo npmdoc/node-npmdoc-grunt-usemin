@@ -1,0 +1,19 @@
+<svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="254" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-04 18:19:09 +0000    65081 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-04 18:19:09 +0000     1295 byte  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-04 18:19:09 +0000    20978 byte  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-04 18:19:09 +0000     1238 byte  lib/config/concat.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-04 18:19:09 +0000      844 byte  lib/config/cssmin.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-04 18:19:09 +0000     1500 byte  lib/config/requirejs.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-04 18:19:09 +0000     1414 byte  lib/config/uglify.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-04 18:19:09 +0000     7738 byte  lib/configwriter.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-04 18:19:09 +0000     4973 byte  lib/file.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-04 18:19:09 +0000     6995 byte  lib/fileprocessor.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-04 18:19:09 +0000     1567 byte  lib/flow.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-04 18:19:09 +0000     6564 byte  lib/revvedfinder.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-04 18:19:09 +0000     3100 byte  package.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-04 18:19:09 +0000     6875 byte  tasks/usemin.js</tspan>
+</text>
+</svg>
